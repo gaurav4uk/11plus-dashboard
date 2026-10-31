@@ -1,0 +1,630 @@
+[
+ {
+  "id": "w1-mon",
+  "w": 1,
+  "k": "mon",
+  "s": "Maths: number",
+  "sc": 13,
+  "mx": 14,
+  "t": null,
+  "wr": [
+   [
+    12,
+    "9 classes × 28 children",
+    "196",
+    "252",
+    "Multiplication"
+   ]
+  ],
+  "img": "assets/scans/week1/mon.jpg"
+ },
+ {
+  "id": "w1-tue",
+  "w": 1,
+  "k": "tue",
+  "s": "Verbal Reasoning",
+  "sc": 7,
+  "mx": 10,
+  "t": null,
+  "wr": [
+   [
+    6,
+    "Word ladder CAT to DOG",
+    "DOT",
+    "COT, COG",
+    "Codes & word play"
+   ],
+   [
+    8,
+    "Letter code: DOG",
+    "—",
+    "EPH",
+    "Codes & word play"
+   ],
+   [
+    9,
+    "Anagram of LISTEN",
+    "Entlis",
+    "SILENT",
+    "Codes & word play"
+   ]
+  ],
+  "img": "assets/scans/week1/tue.jpg"
+ },
+ {
+  "id": "w1-wed",
+  "w": 1,
+  "k": "wed",
+  "s": "Maths: fractions, measures, shape",
+  "sc": 10,
+  "mx": 14,
+  "t": null,
+  "wr": [
+   [
+    6,
+    "0.5 as a fraction",
+    "0.5",
+    "1/2",
+    "Fractions & decimals"
+   ],
+   [
+    7,
+    "Area, 7 cm × 5 cm",
+    "24 cm",
+    "35 sq cm",
+    "Measures"
+   ],
+   [
+    10,
+    "Film 2:45 pm + 1 h 50",
+    "4:45 pm",
+    "4:35 pm",
+    "Measures"
+   ],
+   [
+    13,
+    "5 apples cost £2.20: one apple",
+    "54p",
+    "44p",
+    "Measures"
+   ]
+  ],
+  "img": "assets/scans/week1/wed.jpg"
+ },
+ {
+  "id": "w1-thu",
+  "w": 1,
+  "k": "thu",
+  "s": "English",
+  "sc": 9,
+  "mx": 12,
+  "t": null,
+  "wr": [
+   [
+    1,
+    "Time of day in the story",
+    "in the morning",
+    "early morning, before sunrise (acceptable)",
+    "Comprehension"
+   ],
+   [
+    3,
+    "What “glittered … like diamonds” tells you",
+    "It was looking cool",
+    "sparkled or shone brightly",
+    "Comprehension"
+   ],
+   [
+    9,
+    "Punctuate speech",
+    "blank",
+    "“Where are you going?” asked Mum.",
+    "Grammar & spelling"
+   ]
+  ],
+  "img": "assets/scans/week1/thu.jpg"
+ },
+ {
+  "id": "w1-fri",
+  "w": 1,
+  "k": "fri",
+  "s": "Non-Verbal Reasoning",
+  "sc": 8,
+  "mx": 11,
+  "t": null,
+  "wr": [
+   [
+    6,
+    "Reflect an arrow pointing left",
+    "left",
+    "right",
+    "Shape & spatial"
+   ],
+   [
+    8,
+    "Squares in a 2 × 2 grid",
+    "4 × 4",
+    "5",
+    "Shape & spatial"
+   ],
+   [
+    10,
+    "Dot moves 3 corners clockwise",
+    "south east",
+    "bottom-left",
+    "Shape & spatial"
+   ]
+  ],
+  "img": "assets/scans/week1/fri.jpg"
+ },
+ {
+  "id": "w1-wkd",
+  "w": 1,
+  "k": "wkd",
+  "s": "Mixed quiz",
+  "sc": 9,
+  "mx": 10,
+  "t": null,
+  "wr": [
+   [
+    4,
+    "Next: 3, 6, 12, 24",
+    "27",
+    "48",
+    "Sequences"
+   ]
+  ],
+  "img": "assets/scans/week1/wkd.jpg"
+ },
+ {
+  "id": "w2-mon",
+  "w": 2,
+  "k": "mon",
+  "s": "Maths: multiplication and division",
+  "sc": 14,
+  "mx": 14,
+  "t": 7,
+  "wr": [],
+  "img": "assets/scans/week2/mon.jpg"
+ },
+ {
+  "id": "w2-tue",
+  "w": 2,
+  "k": "tue",
+  "s": "Verbal Reasoning",
+  "sc": 8,
+  "mx": 10,
+  "t": 10,
+  "wr": [
+   [
+    7,
+    "Next: Z, X, V, T",
+    "V",
+    "R",
+    "Sequences"
+   ],
+   [
+    9,
+    "Code (A=1): DOG",
+    "4-14-7",
+    "4-15-7",
+    "Codes & word play"
+   ]
+  ],
+  "img": "assets/scans/week2/tue.jpg"
+ },
+ {
+  "id": "w2-wed",
+  "w": 2,
+  "k": "wed",
+  "s": "Maths: decimals, money, time, shape",
+  "sc": 9,
+  "mx": 14,
+  "t": 14,
+  "wr": [
+   [
+    1,
+    "3/10 as a decimal",
+    "1.3",
+    "0.3",
+    "Fractions & decimals"
+   ],
+   [
+    5,
+    "10 − 6.25",
+    "4.75",
+    "3.75",
+    "Fractions & decimals"
+   ],
+   [
+    6,
+    "2/3 = ?/12",
+    "4",
+    "8",
+    "Fractions & decimals"
+   ],
+   [
+    7,
+    "Simplify 6/8",
+    "—",
+    "3/4",
+    "Fractions & decimals"
+   ],
+   [
+    8,
+    "Change from £5 for 3 × £1.35",
+    "£3.65",
+    "95p",
+    "Measures"
+   ]
+  ],
+  "img": "assets/scans/week2/wed.jpg"
+ },
+ {
+  "id": "w2-thu",
+  "w": 2,
+  "k": "thu",
+  "s": "English",
+  "sc": 8,
+  "mx": 12,
+  "t": 14,
+  "wr": [
+   [
+    2,
+    "Why Priya held Gran’s hand",
+    "so she doesn’t get lost",
+    "afraid the crowd would sweep her away (arguably acceptable)",
+    "Comprehension"
+   ],
+   [
+    5,
+    "How Priya feels, with evidence",
+    "Afraid (no evidence)",
+    "one word plus a phrase from the text",
+    "Comprehension"
+   ],
+   [
+    6,
+    "Meaning of “reassuring”",
+    "—",
+    "comforting, easing worry",
+    "Comprehension"
+   ],
+   [
+    7,
+    "Adverb in “ran quickly”",
+    "ran",
+    "quickly",
+    "Grammar & spelling"
+   ]
+  ],
+  "img": "assets/scans/week2/thu.jpg"
+ },
+ {
+  "id": "w2-fri",
+  "w": 2,
+  "k": "fri",
+  "s": "Non-Verbal Reasoning",
+  "sc": 8,
+  "mx": 11,
+  "t": 12,
+  "wr": [
+   [
+    2,
+    "Triangle turned 180°",
+    "right",
+    "down",
+    "Shape & spatial"
+   ],
+   [
+    6,
+    "Triangles in a square with both diagonals",
+    "12",
+    "8",
+    "Shape & spatial"
+   ],
+   [
+    11,
+    "Edges of a cube",
+    "8",
+    "12",
+    "Shape & spatial"
+   ]
+  ],
+  "img": "assets/scans/week2/fri.jpg"
+ },
+ {
+  "id": "w2-wkd",
+  "w": 2,
+  "k": "wkd",
+  "s": "Mixed quiz",
+  "sc": 6,
+  "mx": 10,
+  "t": 7,
+  "wr": [
+   [
+    4,
+    "Next: 1, 4, 9, 16",
+    "26",
+    "25",
+    "Sequences"
+   ],
+   [
+    5,
+    "Plural of baby",
+    "babyes",
+    "babies",
+    "Grammar & spelling"
+   ],
+   [
+    8,
+    "Sides of a hexagon",
+    "5",
+    "6",
+    "Shape & spatial"
+   ],
+   [
+    10,
+    "Punctuate: its a lovely day said Sam",
+    "blank",
+    "“It’s a lovely day,” said Sam.",
+    "Grammar & spelling"
+   ]
+  ],
+  "img": "assets/scans/week2/wkd.jpg"
+ },
+ {
+  "id": "w3-mon",
+  "w": 3,
+  "k": "mon",
+  "s": "Maths: fractions and decimals",
+  "sc": 10,
+  "mx": 14,
+  "t": 9,
+  "wr": [
+   [
+    2,
+    "0.09 as a fraction",
+    "9/10 (unclear)",
+    "9/100",
+    "Fractions & decimals"
+   ],
+   [
+    7,
+    "Simplify 8/12",
+    "blank",
+    "2/3",
+    "Fractions & decimals"
+   ],
+   [
+    12,
+    "5/8 + 2/8",
+    "8.6",
+    "7/8",
+    "Fractions & decimals"
+   ],
+   [
+    14,
+    "2.5 L − 0.75 L",
+    "0.75 L",
+    "1.75 L",
+    "Fractions & decimals"
+   ]
+  ],
+  "img": "assets/scans/week3/mon.jpg"
+ },
+ {
+  "id": "w3-tue",
+  "w": 3,
+  "k": "tue",
+  "s": "Verbal Reasoning",
+  "sc": 8,
+  "mx": 12,
+  "t": 11,
+  "wr": [
+   [
+    2,
+    "Meaning of vanish",
+    "disapear (spelling; choice was correct)",
+    "disappear",
+    "Vocabulary"
+   ],
+   [
+    3,
+    "Opposite of hostile",
+    "angry",
+    "friendly",
+    "Vocabulary"
+   ],
+   [
+    4,
+    "Opposite of sufficient",
+    "enough",
+    "too little",
+    "Vocabulary"
+   ],
+   [
+    7,
+    "Letters of BAD added (A=1)",
+    "G=1 (working shows 7)",
+    "7",
+    "Codes & word play"
+   ]
+  ],
+  "img": "assets/scans/week3/tue.jpg"
+ },
+ {
+  "id": "w3-wed",
+  "w": 3,
+  "k": "wed",
+  "s": "Maths: area, perimeter, time, money",
+  "sc": 7,
+  "mx": 14,
+  "t": 13,
+  "wr": [
+   [
+    1,
+    "Area of 9 cm × 6 cm",
+    "54 cm",
+    "54 sq cm (units)",
+    "Measures"
+   ],
+   [
+    2,
+    "Perimeter of 9 cm × 6 cm",
+    "method only",
+    "30 cm",
+    "Measures"
+   ],
+   [
+    4,
+    "Width: perimeter 20, length 6",
+    "5 cm",
+    "4 cm",
+    "Measures"
+   ],
+   [
+    7,
+    "08:45 to 11:20",
+    "2:25",
+    "2 h 35 min",
+    "Measures"
+   ],
+   [
+    8,
+    "4 pens cost £3.20: one pen",
+    "85p",
+    "80p",
+    "Measures"
+   ],
+   [
+    10,
+    "3 × £2.45 from £10",
+    "£7.55",
+    "£2.65",
+    "Measures"
+   ],
+   [
+    14,
+    "8 × 5 minus 3 × 2 cut out",
+    "5 cm by 3 cm",
+    "34 sq cm",
+    "Measures"
+   ]
+  ],
+  "img": "assets/scans/week3/wed.jpg"
+ },
+ {
+  "id": "w3-thu",
+  "w": 3,
+  "k": "thu",
+  "s": "English",
+  "sc": 7,
+  "mx": 12,
+  "t": 19,
+  "wr": [
+   [
+    1,
+    "What ‘colour of old slate’ tells you",
+    "it is grey",
+    "dark grey and stormy",
+    "Comprehension"
+   ],
+   [
+    4,
+    "How Mr Patel really felt",
+    "parent",
+    "nervous, with evidence",
+    "Comprehension"
+   ],
+   [
+    5,
+    "Why Maya counted",
+    "waiting for the storm to go",
+    "to judge how far away the storm was",
+    "Comprehension"
+   ],
+   [
+    11,
+    "Punctuate speech",
+    "blank",
+    "“Where are we going?” asked Tom.",
+    "Grammar & spelling"
+   ],
+   [
+    12,
+    "Plurals of city and knife",
+    "citys, knifes",
+    "cities, knives",
+    "Grammar & spelling"
+   ]
+  ],
+  "img": "assets/scans/week3/thu.jpg"
+ },
+ {
+  "id": "w3-fri",
+  "w": 3,
+  "k": "fri",
+  "s": "Non-Verbal Reasoning",
+  "sc": 10,
+  "mx": 12,
+  "t": 13,
+  "wr": [
+   [
+    5,
+    "Squares in a 3 × 3 grid",
+    "9",
+    "14",
+    "Shape & spatial"
+   ],
+   [
+    7,
+    "Dot moves 2 corners clockwise, 3 steps",
+    "top right",
+    "bottom-right",
+    "Shape & spatial"
+   ]
+  ],
+  "img": "assets/scans/week3/fri.jpg"
+ },
+ {
+  "id": "w3-wkd",
+  "w": 3,
+  "k": "wkd",
+  "s": "Mixed multiple-choice quiz",
+  "sc": 8,
+  "mx": 12,
+  "t": 11,
+  "wr": [
+   [
+    1,
+    "7 × 8",
+    "A (54)",
+    "B (56)",
+    "Multiplication"
+   ],
+   [
+    5,
+    "Correct speech sentence",
+    "D",
+    "B",
+    "Grammar & spelling"
+   ],
+   [
+    7,
+    "Next: 1, 4, 9, 16, 25",
+    "B (34)",
+    "C (36)",
+    "Sequences"
+   ],
+   [
+    11,
+    "Edges of a cube",
+    "B (8)",
+    "D (12)",
+    "Shape & spatial"
+   ]
+  ],
+  "img": "assets/scans/week3/wkd.jpg"
+ }
+]
